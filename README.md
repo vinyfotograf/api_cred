@@ -15,6 +15,8 @@
 
 <p>This project uses <a href="https://pypi.org/project/virtualenv/">virtualenv</a> for virtual environment management.</p>
 
+`pip install virtualenv`
+
 `\venv\Scripts\activate`
 
 <p>Running</p>
