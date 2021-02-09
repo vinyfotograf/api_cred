@@ -1,0 +1,7 @@
+
+DEBUG = True
+
+CACHE_TYPE = 'simple'
+CACHE_DEFAULT_TIMEOUT = 120
+
+
