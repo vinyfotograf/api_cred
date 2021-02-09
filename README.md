@@ -19,6 +19,8 @@
 
 `\venv\Scripts\activate`
 
+`pip install requeriments.txt`
+
 <p>Running</p>
 
 `cd cred_api\run.py`
